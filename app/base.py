@@ -4,7 +4,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 import os
 # from app import video
-from video import open_cam
+# from video import open_cam
 
 APP_DIR = os.path.dirname(__file__)
 
